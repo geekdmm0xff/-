@@ -15,7 +15,7 @@ class App extends Component {
             placeholder="Enter your code"
           />
         </bootstrap.FormGroup>
-        <bootstrap.Button bsStyle="danger" style={{ width: 100 }}>
+        <bootstrap.Button bsstyle="danger" style={{ width: 100 }}>
           运行
         </bootstrap.Button>
       </bootstrap.TabPane>
